@@ -19,7 +19,7 @@ if (num1 <= 1 && num2 >= 3) {
 // console.log('---');
 // }
 
-const test = Boolean(true);
+let test = Boolean(true);
 console.log((test === true) ? `+++` : `---`);
 
 
